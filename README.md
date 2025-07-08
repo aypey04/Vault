@@ -21,7 +21,7 @@ A lightweight, terminal-based password and secret manager that stores your sensi
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 ```bash
 pip install cryptography
